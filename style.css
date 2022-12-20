@@ -95,10 +95,10 @@ main {
 .plan-info img {
   margin: 1.2rem;
 }
-.plan-price h3,
+.plan-price h2,
 p {
   font-size: 1rem;
-  margin: 0.1rem;
+  margin: 0;
 }
 .plan-cta {
   color: var(--bright-blue);
